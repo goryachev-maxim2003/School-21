@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sstream": "c",
+        "s21_string.h": "c",
+        "string.h": "c",
+        "check.h": "c"
+    }
+}

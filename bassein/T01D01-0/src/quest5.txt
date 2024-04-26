@@ -1,0 +1,7 @@
+cd door_management_files
+cd door_logs
+vi door_1.log
+i
+OPEN
+esc
+:wq

@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "memory": "c",
+        "utility": "c",
+        "system_error": "c",
+        "stdlib.h": "c",
+        "__locale": "c",
+        "__string": "c",
+        "string": "c",
+        "string_view": "c",
+        "algorithm": "c",
+        "random": "c",
+        "ios": "c",
+        "locale": "c"
+    }
+}

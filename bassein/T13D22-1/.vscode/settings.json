@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "sstream": "c",
+        "queue": "c",
+        "random": "c",
+        "system_error": "c",
+        "log_levels.h": "c",
+        "time.h": "c",
+        "logger.h": "c",
+        "complex": "c",
+        "cmath": "c"
+    }
+}

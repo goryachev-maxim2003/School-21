@@ -1,0 +1,16 @@
+release/creditcalc.o
+release/depositcalc.o
+release/main.o
+release/mainwindow.o
+release/s21_validation.o
+release/s21_GUI_functions.o
+release/s21_calculate.o
+release/s21_infix_to_postfix.o
+release/s21_postfix_to_double.o
+release/qcustomplot.o
+release/s21_creditCalc.o
+release/s21_depositCalc.o
+release/moc_creditcalc.o
+release/moc_depositcalc.o
+release/moc_mainwindow.o
+release/moc_qcustomplot.o

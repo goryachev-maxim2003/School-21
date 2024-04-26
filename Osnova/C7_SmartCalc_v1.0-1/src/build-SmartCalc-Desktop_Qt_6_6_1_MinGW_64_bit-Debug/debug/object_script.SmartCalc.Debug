@@ -1,0 +1,16 @@
+debug/creditcalc.o
+debug/depositcalc.o
+debug/main.o
+debug/mainwindow.o
+debug/s21_validation.o
+debug/s21_GUI_functions.o
+debug/s21_calculate.o
+debug/s21_infix_to_postfix.o
+debug/s21_postfix_to_double.o
+debug/qcustomplot.o
+debug/s21_creditCalc.o
+debug/s21_depositCalc.o
+debug/moc_creditcalc.o
+debug/moc_depositcalc.o
+debug/moc_mainwindow.o
+debug/moc_qcustomplot.o
